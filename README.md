@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 -->
 <div>
-<a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leylagcampos&hide_border=true&hide=jupyter%20notebook "></a>
+<a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leylagcampos&hide_border=true&hide=jupyter%20notebook"></a>
 <a><img src="https://github-readme-stats.vercel.app/api/?username=leylagcampos&count_private=true&showicons=true&hide_border=true"></a><div>
 
 
